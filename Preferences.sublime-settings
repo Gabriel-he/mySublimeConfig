@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font-size": 16,
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

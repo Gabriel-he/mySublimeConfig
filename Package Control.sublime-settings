@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AngularJS",
+		"AutoFileName",
+		"Autoprefixer",
+		"Babel",
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"jQuery",
+		"JsFormat",
+		"Markdown Preview",
+		"Package Control",
+		"ReactJS",
+		"SCSS",
+		"Seti_UI",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsxhint",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
+	]
+}
